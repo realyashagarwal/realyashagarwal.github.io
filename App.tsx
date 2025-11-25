@@ -7,7 +7,6 @@ import Projects from './components/Projects';
 import Skills from './components/Skills';
 import Certifications from './components/Certifications';
 import Footer from './components/Footer';
-import ChatWidget from './components/ChatWidget';
 
 const App: React.FC = () => {
   return (
@@ -34,7 +33,6 @@ const App: React.FC = () => {
         </div>
       </main>
       <Footer />
-      <ChatWidget />
     </div>
   );
 };
