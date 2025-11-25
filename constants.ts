@@ -2,9 +2,9 @@ import { Job, Project, SkillCategory, Certification, SocialLink } from './types'
 
 export const PROFILE = {
   name: "Yash Agarwal",
-  role: "AI Researcher & Systems Engineer",
-  tagline: "Deep Reinforcement Learning • Stochastic Control • Computer Vision",
-  bio: "Undergraduate researcher bridging the gap between classical Control Theory and modern Deep Learning. My work focuses on constructing physics-informed environments and dissecting transformer architectures from first principles to understand signal propagation in high-dimensional spaces.",
+  role: "Researcher & Engineer",
+  tagline: "Machine Learning • Control Systems • Computer Vision • Agentic AI",
+  bio: "Undergraduate student exploring Machine Learning. ",
   email: "y2907ash@gmail.com",
   location: "Kolkata, West Bengal, India",
   website: "https://github.com/realyashagarwal"

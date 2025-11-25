@@ -38,8 +38,9 @@ const Footer: React.FC = () => {
           </div>
         </div>
         
+        {/* UPDATED THIS SECTION */}
         <div className="border-t border-slate-800 mt-10 pt-6 text-center text-slate-500 text-sm">
-          <p>&copy; {new Date().getFullYear()} Yash Agarwal. Built with React, Tailwind & Gemini AI.</p>
+          <p>&copy; {new Date().getFullYear()} Yash Agarwal</p>
         </div>
       </div>
     </footer>
